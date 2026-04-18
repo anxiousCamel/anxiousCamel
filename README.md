@@ -2,8 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00cdf9&size=25&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Luiz+:%29;Welcome+to+my+github+profile!+<3)](https://git.io/typing-svg)
 
-👨‍🎓 I am a graduate in Systems Analysis and Development, with skills in cloud architecture, front-end and back-end development, as well as knowledge of various programming languages and operating systems. I am seeking opportunities in the TI field and I am always eager to learn more about technology.
+Hi, I'm Luiz 👋
 
+I'm a Systems Analysis and Development graduate with strong experience in infrastructure and cloud. I have a solid background working with environments, automation, and operations, and I’ve been actively expanding my role into software development.
+
+My goal is to fully transition into development, leveraging my infrastructure background to build more robust, scalable, and well-designed systems. I plan to pursue a postgraduate degree in DevOps as a way to bridge both worlds effectively.
+
+I build solutions focused on autonomy, efficiency, and reducing manual effort. Automation is not a feature — it’s the baseline.
+
+Always building. Always evolving.
 
 ## &nbsp;Tech Stack | Tools
 <p align="center">
